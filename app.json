@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Oura-Ubot/Oura-XFsub-Bot2",
+  "repository": "https://github.com/Kayyty/Kayy-XFsub-Bot2",
   "logo": "https://telegra.ph/file/16222aa1d815bc26c950f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
